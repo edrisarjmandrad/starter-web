@@ -8,6 +8,8 @@ I've no idea what am i doing
 
 ## Purpose
 
+stash all files beacuse have force change
+
 Sample website with plenty of files for demos
 
 ## Deployment
